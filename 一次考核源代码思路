@@ -1,0 +1,7 @@
+欢迎来到实验室
+#include<stdio.h>
+int main()
+{
+  printf("我爱513")；
+return 0;
+}
